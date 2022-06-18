@@ -1,0 +1,37 @@
+[2022-02-14 13:18:43.008089]: network
+[2022-02-14 13:18:43.012259]: People simply will not agree on what should and shouldn't be "an error", and once exception-handling mechanisms are introduced to give people a choice, they will far less agree on what to do with them., Tim Peters, 17 Dec 1993
+
+[2022-02-14 13:18:51.277997]: not network
+[2022-02-14 13:18:51.281376]: 
+[2022-02-18 11:59:59.203504]: network
+[2022-02-18 11:59:59.207674]: We've been through a couple of syntax changes, but I have sort of assumed that by the time we get to version 1.0 release, the language, (if not the implementation) will essentially be stable., Steven D. Majewski, 14 Sep 1993
+
+[2022-02-18 12:00:53.727918]: network
+[2022-02-18 12:00:53.731914]: I claim complete innocence and ignorance! It must have been Tim. I wouldn't know a Trondheim Hammer if it fell on my foot!, Steve Majewski, 10 Jan 1995
+
+[2022-02-18 12:02:07.307428]: network
+[2022-02-18 12:02:07.310550]: Just a success note for Guido and the list: Python 0.9.9, stdwin, readline, gmp, and md5 all go up on linux 0.99 pl11 without much problems., Allan Bailey, 2 Aug 1993 [First mention of Linux on python-list.]
+
+[2022-02-18 12:02:24.231040]: network
+[2022-02-18 12:02:24.235042]: but-i'm-not-even-motivated-enough-to-finish-this-sig-, Tim Peters, 20 Dec 2000
+
+[2022-02-18 12:06:22.453345]: network
+[2022-02-18 12:06:22.455346]: Non-masochists, please delete this article NOW., Aaron Watters, 20 Jan 1995
+
+[2022-02-18 12:07:03.176336]: network
+[2022-02-18 12:07:03.179444]: Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered, Guido van Rossum, 13 Aug 1996
+
+[2022-02-18 12:07:48.994992]: network
+[2022-02-18 12:07:48.996993]: Ha -- you have done me the favor of underestimating my ignorance <smile>., Tim Peters, 30 Dec 1991
+
+[2022-02-18 12:08:12.684103]: network
+[2022-02-18 12:08:12.688087]: (Aieee! Yet another thing on my TODO pile!), A.M. Kuchling, 10 Jan 1995
+
+[2022-02-18 12:09:50.363471]: network
+[2022-02-18 12:09:50.367471]: "Python tricks" is a tough one, cuz the language is so clean. E.g., C makes an art of confusing pointers with arrays and strings, which leads to lotsa neat pointer tricks; APL mistakes everything for an array, leading to neat one-liners; and Perl confuses everything period, making each line a joyous adventure <wink>., Tim Peters, 16 Sep 1993
+
+[2022-02-18 12:09:54.332530]: network
+[2022-02-18 12:09:54.335531]: Python is a truly wonderful language. When somebody comes up with a good idea it takes about 1 minute and five lines to program something that almost does what you want. Then it takes only an hour to extend the script to 300 lines, after which it still does almost what you want., Jack Jansen, 8 Jul 1992
+
+[2022-02-18 12:10:01.641894]: notwork
+[2022-02-18 12:10:01.643895]: 
